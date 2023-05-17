@@ -1,5 +1,5 @@
-# Data Mining Fundations
-An academic project I carried out for the data mining course. The project consists in exercises requiring the use of data mining tools for analysis of data. Exercises include: data understanding, clustering analysis, classification and pattern mining. Specifically, the tasks required were as follows:
+# Project requirements
+The project consists in exercises requiring the use of data mining tools for analysis of data. Exercises include: data understanding, clustering analysis, classification and pattern mining. Specifically, the tasks required were as follows:
 * Data Understanding & Preparation:
   - Data Semantics.
   - Distribution of the variables and statistics.
